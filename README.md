@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
+👨‍💻🎉Collection of some of my Solutions for LeetCode Problems on Algorithms and Data Structures - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
